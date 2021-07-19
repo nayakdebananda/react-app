@@ -2,7 +2,9 @@ import React from 'react';
 
 function App(){
     return <div>
-        <h1>Hello World</h1>
+        <button>++</button>
+        <h1>3</h1>
+        <button>--</button>
     </div>;
 }
 
